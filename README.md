@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://github.com/Wellitsabhi/" target="_blank">
-      <img src="https://github.com/Wellitsabhi/portfolio/assets/99867024/e5efe18d-38d7-4e9a-95f2-574224c061b4" alt="Project Banner">
-    </a>
+<!--     <a href="https://github.com/Wellitsabhi/" target="_blank">
+<!--       <img src="https://github.com/Wellitsabhi/portfolio/assets/99867024/e5efe18d-38d7-4e9a-95f2-574224c061b4" alt="Project Banner"> -->
+    </a> -->
   <br />
 
   <div>
