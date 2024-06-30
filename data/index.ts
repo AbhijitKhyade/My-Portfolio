@@ -100,7 +100,7 @@ export const projects = [
       "/ex.svg",
       "node.svg",
     ],
-    link: "",
+    link: "https://district-scheme-tracker-2024.vercel.app/",
     liveorcode: true,
   },
   // {
