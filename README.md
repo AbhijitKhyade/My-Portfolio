@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://github.com/AbhijitKhyade/" target="_blank">
     ![landingPage](https://github.com/AbhijitKhyade/My-Portfolio/assets/129264746/0f886415-c482-4b5c-8fd4-80eff26c22c9)
-    </a>
   <br />
 
   <div>
