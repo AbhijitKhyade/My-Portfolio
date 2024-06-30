@@ -4,7 +4,7 @@ export const navItems = [
   { name: "Projects", link: "#projects" },
   // { name: "Testimonials", link: "#testimonials" },
   { name: "Work", link: "#work" },
-  { name: "Contact", link: "#contact" },
+  { name: "Connect", link: "#contact" },
 ];
 
 export const gridItems = [
@@ -92,7 +92,7 @@ export const projects = [
     id: 2,
     title: "District Scheme Tracker",
     des: "Track the progress of various schemes in your district with ease.",
-    img: "",
+    img: "/district.png",
     iconLists: [
       "/re.svg",
       "/tail.svg",
@@ -224,7 +224,7 @@ export const socialMedia = [
   // {
   //   id: 2,
   //   img: "/twit.svg",
-  //   link: "https://x.com/wellitsabhi",
+  //   link: "",
   // },
   {
     id: 3,
