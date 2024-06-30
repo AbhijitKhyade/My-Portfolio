@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-   ![image](https://github.com/AbhijitKhyade/My-Portfolio/assets/129264746/a02cd433-fdee-46d4-b085-566e4d061384)
-
+ ![Project Banner](landingPage.png)
   <br />
 
   <div>
