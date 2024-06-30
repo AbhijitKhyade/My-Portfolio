@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-<!--     <a href="https://github.com/Wellitsabhi/" target="_blank">
-<!--       <img src="https://github.com/Wellitsabhi/portfolio/assets/99867024/e5efe18d-38d7-4e9a-95f2-574224c061b4" alt="Project Banner"> -->
-    </a> -->
+    <a href="https://abhijit-khyade-portfolio-2024.vercel.app/" target="_blank">
+     <img src="portfolio\public\landingPage.png" alt="Project Banner">
+    </a>
   <br />
 
   <div>
@@ -26,7 +26,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
@@ -44,7 +43,7 @@ Built with Next.js for handling the user interface, Three.js for rendering 3D el
 
 👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+👉 **3D Elements**: Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
 
 👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
 
@@ -54,7 +53,7 @@ Built with Next.js for handling the user interface, Three.js for rendering 3D el
 
 👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -90,4 +89,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
