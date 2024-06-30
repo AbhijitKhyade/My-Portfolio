@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://abhijit-khyade-portfolio-2024.vercel.app/" target="_blank">
-     <img src="portfolio\public\landingPage.png" alt="Project Banner">
+    ![landingPage](https://github.com/AbhijitKhyade/My-Portfolio/assets/129264746/0f886415-c482-4b5c-8fd4-80eff26c22c9)
     </a>
   <br />
 
