@@ -1,6 +1,6 @@
 <div align="center">
   <br />
- ![Project Banner](landingPage.png)
+<img src="https://ibb.co/5x77LGD" alt='Project Banner'/>
   <br />
 
   <div>
