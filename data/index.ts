@@ -73,7 +73,22 @@ export const gridItems = [
 
 export const projects = [
   {
-    id: 1,
+    "id": 1,
+    "title": "Imaginify",
+    "des": "Imaginify is an AI image SaaS platform with advanced image processing and AI features.",
+    "img": "/imaginify.png",
+    "iconLists": [
+      "/nextjs.png",
+      "/mongo.svg",
+      "/tail.svg",
+      "/cloudinary.webp",
+      "/stripe.png"
+    ],
+    "link": "https://imaginify-2024.vercel.app/",
+    "liveorcode": true
+  },
+  {
+    id: 2,
     title: "Resume Builder",
     des: "Impressive application with sleek UI to build your resume in minutes.",
     img: "/resume_builder.png",
@@ -89,7 +104,7 @@ export const projects = [
     liveorcode: true,
   },
   {
-    id: 2,
+    id: 3,
     title: "District Scheme Tracker",
     des: "Track the progress of various schemes in your district with ease.",
     img: "/district.png",
@@ -103,6 +118,7 @@ export const projects = [
     link: "https://district-scheme-tracker-2024.vercel.app/",
     liveorcode: true,
   },
+
   // {
   //   id: 3,
   //   title: "",
