@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://github.com/Wellitsabhi/" target="_blank">
-     <img src="https://github.com/Wellitsabhi/portfolio/assets/99867024/e5efe18d-38d7-4e9a-95f2-574224c061b4" alt="Project Banner">
-    </a>
+<img src="https://ibb.co/5x77LGD](https://drive.google.com/file/d/1ccs5-pmQE3McJBPubr_gCrLJDEE7FLBD/view" alt='Project Banner'/>
   <br />
 
   <div>
